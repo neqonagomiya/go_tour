@@ -1,6 +1,6 @@
 # go_tour
 
 
-Ref
+Ref.
 1. [go_tour](https://go-tour-jp.appspot.com/welcome/)
-1. 
+ 
